@@ -1,6 +1,6 @@
 import { test, expect } from '@playwright/test';
 
-test('test', async ({ page }) => {
+test('TC004 Verify Frames', { tag: '@regression' }, async ({ page }) => {
     // Navigate to the page
   await page.goto('https://www.globalsqa.com/demo-site/frames-and-windows/');
 

@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Jul 17 15:15:10 ICT 2024","Wed Jul 17 15:15:32 ICT 2024","22151","chrome","TC001_Verify_Checkboxes.spec.ts","","","","test Checkboxes",""
